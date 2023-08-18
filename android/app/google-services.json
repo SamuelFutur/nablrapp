@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606903022010",
+    "project_id": "nablr-dd985",
+    "storage_bucket": "nablr-dd985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606903022010:android:d963ebcad9108bf15fed83",
+        "android_client_info": {
+          "package_name": "ci.futurafricia.nablr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk4rhZ9RHnzazJ5nt1dBDrhRcPYe2nJdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
