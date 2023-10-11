@@ -22,7 +22,7 @@ class _FileState extends State<File> {
   var text = "";
   final controller = Get.put(ProfileController());
   Future<String> convertSpeechToText(String filePath) async {
-    const apiKey = "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";
+    const apiKey = "";
     var url = Uri.https("api.openai.com", "v1/audio/transcriptions");
     var request = http.MultipartRequest('POST', url);
     request.headers.addAll(({"Authorization": "Bearer $apiKey"}));
